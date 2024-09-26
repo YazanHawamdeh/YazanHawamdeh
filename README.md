@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
 ![bootstrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Leravel](https://img.shields.io/badge/-Leravel-05122A?style=flat&logo=Leravel)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 
 
